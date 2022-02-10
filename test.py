@@ -5,5 +5,5 @@ print(x)
 y = 1_000
 x = y
 print(x is y)
-print(id(x) is id(y))
+print('Another Line from user1!')
 print('Line from user1!')
