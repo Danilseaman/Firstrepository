@@ -5,3 +5,4 @@ print(x)
 y = 1_000
 x = y
 print(x is y)
+print(id(x) is id(y))
